@@ -1,0 +1,12 @@
+{
+  "domain": "gelios_tracker",
+  "name": "GeliosPro Tracker",
+  "documentation": "https://docs.geliospro.net/en/d-sdk",
+  "codeowners": "vtgHome",
+  "config_flow": true,
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "version": "2.1.0",
+  "dependencies": [],
+  "requirements": []
+}
